@@ -638,18 +638,7 @@ span.title-beispiel {
     }
 }
 
-@media only screen and (max-height: 1050px) and (min-width: 1680px) {
-    .navbar-light .navbar-brand {
-        color: white;
-        padding-left: 1rem;
-        padding-right: 1rem;
-        border-radius: 3px;
-        background-color: black;
-        font-family: 'Merriweather', serif;
-        font-weight: 900;
-        margin-left: 14.1vw;
-    }
-}
+
 
 @media only screen and (min-width:1440px) {
     .navbar-light .navbar-brand {
@@ -677,6 +666,19 @@ span.title-beispiel {
         margin-bottom: 0;
         margin-left: 2em !important;
         list-style: none;
+    }
+}
+
+@media only screen and (max-height: 1050px) and (min-width: 1680px) {
+    .navbar-light .navbar-brand {
+        color: white;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        border-radius: 3px;
+        background-color: black;
+        font-family: 'Merriweather', serif;
+        font-weight: 900;
+        margin-left: 14.1vw;
     }
 }
 
