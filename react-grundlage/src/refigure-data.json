@@ -1,0 +1,328 @@
+[
+    {
+        "stilmittel": "Der Vergleich",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Stark wie ein Bär\"</li>\n<li>\"Schneller als die Polizei erlaubt.\"</li></ul>",
+        "beschreibung": "Zwei Begriffe oder Sachverhalte, die sich in einer oder mehreren Eigenschaften ähneln, werden durch \"als\" oder \"wie\" zueinander in Beziehung gesetzt",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> anschaulich, betonend</span></div></div>"
+    },
+    {
+        "stilmittel": "Das Totum pro parte",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Deutschland holt Gold\", wobei hier eigentlich der Olympia-Teilnehmer als einzelne Person gemeint ist</li></ul>",
+        "beschreibung": "Das Ganze steht für einen Teil: Ein Bestandteil einer Sache wird durch einen Begriff umschrieben, der eigentlich für die ganze Sache steht. (siehe Synekdoche und Pars pro toto)",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> verknappend, eindringlich</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Tautologie",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"immer und ewig\"</li><li>\"Art und Weise\"</li> <li>\"kurz und bündig\"</li> <li>\"Geschäft ist Geschäft\"</li></ul>",
+        "beschreibung": "Paarung von bedeutungsähnlichen Begriffen der selben Wortart, wobei beide Begriffe den selben Sinn vermitteln; Die Begriffe können auch identisch sein.",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend, steigernd</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Synonymie",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Mein Mann, mein Gatte, mein Liebster!\"</li> <li>\"Wo ist der Ausgangspunkt, der Start, der Anfang?\"</li></ul>",
+        "beschreibung": "Kombination bedeutungsgleicher und/oder bedeutungsähnlicher Begriffe",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend, steigernd, eindringlich</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Synekdoche",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Ein Dach über dem Kopf haben\" für \"In einem Haus leben\"</li> <li>\"Deutschland spielt gegen England\", wobei hier nicht die Nation, sondern die Fußballmannschaft gemeint ist</li> <li>\"Pro Kopf\" für \"Pro Person\"</li></ul>",
+        "beschreibung": "Ein Wort wird durch ein anderes aus dem selben Bedeutungsfeld ersetzt, dabei kann es sich sowohl um einen enger als auch um einen weiter gefassten Begriff handeln. Oft wird ein allgemeiner durch einen speziellen Begriff oder der Plural mitm Singular ersetzt (siehe Pars pro toto und Totum pro parte)",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> verknappend, eindringlich</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Synestäsie",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Das klingt aber süß!\"</li><li> \"knallrot\"</li><li> \"stinkfaul\"</li><li> \"Die Brillengläser waren so dick, dass die Augen ganz leise aussahen\" (Borchert)</li></ul>",
+        "beschreibung": "Verschiedene Sinnesebenen und Empfindungen werden miteinander kombiniert",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend, steigernd</span></div></div>"
+    },
+    {
+        "stilmittel": "Das Symbol",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>Das Kreuz für das Christentum</li> <li>ein Herz für die Liebe</li><li>Die weiße Fahne für die Kapitulation</li></ul>",
+        "beschreibung": "Ein abstrakter Begriff oder Zusammenhang wird durch ein konkretes Bild dargestellt. Oft kulturell geprägt.",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> veranschaulichend, einprägsam</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Sentenz",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>Die Weisheiten des chin. Philosophen Konfuzius</li><li> das Sprichwort \"Ohne Fleiß, kein Preis\"</li><li> Zusammenfassungen am Ende von Kapiteln in Lehrbüchern</li></ul>",
+        "beschreibung": "Zusammenfassung einer vorangegangenen Argumentation oder Schilderung in Form einer knappen aussage, die zu allg. Bedeutung erhoben wird.",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> informativ, veranschaulichend, verknappend</span></div></div>"
+    },
+    {
+        "stilmittel": "Der Sarkasmus",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Überarbeite dich bloß nicht!\"</li><li> \"Gab es die Hose nicht in deiner Größe?\"</li></ul>",
+        "beschreibung": "Direkte oder indirekte, also ironische Aussage mit verspottender, verhöhnender und somit verletzender Wirkung",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> verstärkend, angreifend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die rhetorische Frage",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Du bist auch nicht gerade der hellste, oder?\"</li><li> \"Wer ist schon perfekt?\" </li><li> \"Hab ich dir zuviel versprochen?\"</li></ul>",
+        "beschreibung": "Eine Scheinfrage, auf die keine Antwort erwartet wird. Sie dient nicht dem Informationsgewinn, sondern drückt die Meinung des Autors aus",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> verstärkend, eindringlich</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Repetitio",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Mein Gott, mein Gott, warum hast du mich verlassen?\" (Mk 15,34)</li><li>\"Oh nein! Oh nein!\"</li></ul>",
+        "beschreibung": "Wiederholung von Wörtern oder Satzteilen",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> verstärkend, eindringlich</span></div></div>"
+    },
+    {
+        "stilmittel": "Das Polysyndeton",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>Und es wallet und siedet und brauset und zischt (Friedrich Schiller: \"Der Taucher\")",
+        "beschreibung": "Gleichwertige Satzteile werden mittels Konjunktion mehrfach aneinandergereiht",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> dramatisch, verknappend</span></div></div>"
+    },
+    {
+        "stilmittel": "Der Pleonasmus",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Das grüne Gras\"</li><li>\"Rückantwort\"</li><li>\"tote Leiche\"</li><li>\"kleiner Zwerg\"</li><li>\"PIN-Nummer\" wobei die vorrangehende Abkürzung PIN das Wort \"Nummer\" bereits beinhaltet</li></ul>",
+        "beschreibung": "Kombination von Wörtern, die sich in der Wortart unterscheiden, sich aber in ihrer Bedeutung ähneln. Dabei wird einem Substantiv oft ein vermeintlich unnötiges Attribut beigefügt, dessen Bedeutung bereits im Hauptwort enthalten ist",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend, veranschaulichend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Personifikation",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Die Zeit rennt\"</li><li>\"Technoligien […] wollen bedient werden\" (Jörg Friedrich)</li><li>\"Vater Staat\"</li></ul>",
+        "beschreibung": "Vermenschlichung einer Sache. Ein Tier, ein Gegenstand oder ähnliches handelt wie ein Mensch oder weist menschliche Eigenschaften auf.",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> veranschaulichend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Periphrase",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Der allmächtige Vater\" für \"Gott\"</li><li>\"bessere Hälfte\" als Bezeichnung für Ehepartner</li></ul>",
+        "beschreibung": "Ein Begriff wird durch Worte ersetzt, die ihn beschreiben. Oft beschönigend",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend, vermeidung von Wortwiederholungen</span></div></div>"
+    },
+    {
+        "stilmittel": "Das Pars pro toto",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Das macht dann 10 € pro Nase\", für \"[..] pro Person\"</li><li>\"Der Spanier ist stolz\" für \"Spanier sind stolz\"</li><li>\"Brot\" für \"Nahrung\"</li></ul>",
+        "beschreibung": "Ein Teil steht für das Ganze: Eine Sache wird durch einen Begriff umschrieben, der eigentlich nur für einen Bestandteil dieser Sache steht. (siehe Synekdoche und Totum pro parte)",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend, vermeidung von Wortwiederholungen</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Parenthese",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Er legte es – behutsam ging er dabei nicht vor – flach auf den Boden und […]\"</li></ul>",
+        "beschreibung": "Bezeichnet einen eigenständigen Satz, der in einen anderen Satz eingefügt wird, diesen unterbricht, seine grammatikalische Struktur jedoch nicht beeinflusst.",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> informativ</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Paronomasie",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Lieber arm dran als Arm ab\"</li><li>\"Verlass dich auf jemanden und du wirst verlassen\"</li></ul>",
+        "beschreibung": "Ein Wortspiel, bei dem zwei Begriffe, die ähnlich klingen, sich aber in ihrer Bedeutung voneinander unterscheiden, verbunden werden.",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> einprägsam</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Parataxe",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"die Erde aber war wüst und wirr</li><li>Finsternis lag über der Urflut und Gottes Geist schwebte über dem Wasser.\" (Gen1,2)</li><li>\"Gott schied das Licht von der Finstrnis und Gott nannte das Licht Tag und die Finsternis nannte er Nacht. Es wurde Abend und es wurde Morgen[...]\"(Gen 1,4-5)</li></ul>",
+        "beschreibung": "Aneinanderreihung von gleichwertigen Hauptsätzen, Wörtern oder Satzteilen. Verleiht absoluten, prägnanten Charakter. Gegenteil der Hypotaxe",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> dramatisch, verknappend</span></div></div>"
+    },
+    {
+        "stilmittel": "Der Parallelismus",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Das Wasser fließt, der Wind weht, die Blumen blühen\"</li><li>\"Bis auf den Grund wasche ab meine Missetat, von meiner Sünde mache mich rein!\"(Ps 51,4)</li></ul>",
+        "beschreibung": "Sätze oder Teilsätze in symmetrischen Aufbau",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> eindringlich, einprägsam</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Paralipse",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Dass das ganze keinen tieferen Sinn hat, brauche ich ja garnicht erst zu erwähnen\"</li><li>\"Ganz zu schweigen von den anderen Möglichkeiten[...]\"</li></ul>",
+        "beschreibung": "Angebliche, vorgetäuschte Auslassung eines Sachverhaltes vom Autor. Betont durch scheinbare Ablenkung vom Thema",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend</span></div></div>"
+    },
+    {
+        "stilmittel": "Das Paradoxon",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Ich weiß, dass ich nichts weiß\"(Sokrates)</li><li>\"Keine Regel ohne Ausnahme\"</li><li>\"Dieser Satz ist falsch\"</li></ul>",
+        "beschreibung": "Scheinbar widersprüchliche oder abwegige Aussage, mit oft höherem Wahrheitsgehalt",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> aufmerksamkeit erregend, einprägsam</span></div></div>"
+    },
+    {
+        "stilmittel": "Das Palindrom",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Anna\"</li><li>\"Tor\" und \"rot\"</li><li>\"Eber\" und \"Rebe\"</li><li>\"Ein Esel lese nie\"</li></ul>",
+        "beschreibung": "Ein Wort , das auch rückwärtsgelesen einen Sinn ergibt. Oft in Wortspielen",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> einprägsam</span></div></div>"
+    },
+    {
+        "stilmittel": "Das Oxymoron",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Offenes Geheimnis\"</li><li>\"weniger ist mehr\"</li><li>\"bittersüß\"</li></ul>",
+        "beschreibung": "Kombination aus sich widersprechenden Begriffen (siehe auch Contradictio in adiect)",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> verschärfend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Onomatopoesie",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>Interjektionen wie \"Miau\"</li><li>\"Dingdong\" oder \"Muh\"</li><li>Substantiv-/Verbalstämme wie <ul><li>\"quietschen\"</li><li>\"knarren\"</li><li>oder \"knurren\"</li></ul></li></ul>",
+        "beschreibung": "Lautmalerei - Geräusche werden in Worte gefasst",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> veranschaulichend</span></div></div>"
+    },
+    {
+        "stilmittel": "Der Neoligismus",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Kulturpessimismus\"</li><li>\"abziehen\" für \"ausrauben\"</li><li>\"Fanboy\"</li></ul>",
+        "beschreibung": "Schöpfung eines neuen Wortes, oft durch Kombination bereits bekannter Begriffe",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> hervorhebend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Metonymie",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Der Kreml hat sich noch nicht dazu geäußert\"</li><li>\"Das kühle Nass\" für \"Wasser\"</li><li>\"Er hat den ganzen Teller aufgegessen\"</li></ul>",
+        "beschreibung": "Ein Begriff wird durch einen anderen, unmittelbar verwandten Ausdruck ersetzt",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> veranschaulichend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Metapher",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Das schlägt dem Fass den Boden aus\"</li><li>\"Ein Wink mit dem Zaunpfahl\"</li><li>\"Eine Flut von Menschen\"</li><li>\"Baumkrone\"</li></ul>",
+        "beschreibung": "Verbildlichung von sachverhalten, wobei Bild und Ausdruck durch besondere Eigenschaften miteinander in Verbindung stehen",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> veranschaulichend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Litotes",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Ich kann mich nicht beklagen\"</li><li>\"Er ist nicht untalentiert\"</li><li>\"Nicht der Schnellste\"</li></ul>",
+        "beschreibung": "Untertreibung, doppelte Verneinung oder Verneinung des Gegenteils",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Klimax",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Wir beliefern Deutschland, Europa und die ganze Welt\"</li><li>\"Die Erde, unser Sonnensystem und die ganze Galaxie\"</li></ul>",
+        "beschreibung": "Steigerung vom Schwächeren zum Stärkeren",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> eindringlich, betonend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Ironie",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Das hast du ja ganz toll hingekriegt\"</li><li>\"Das wär ja noch schöner\"</li></ul>",
+        "beschreibung": "Eine Aussage, die etwas anderes oder das genaue Gegenteil von dem ausdrücken soll, was sie oberflächlich betrachtet darstellt",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Inversion",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Ein Versager ist er, weiter nichts!\"</li><li>\"Schnell ist es\"</li></ul>",
+        "beschreibung": "Umstellung der gängigen Wortreihenfolge innerhalb eines Satzes",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend, etwas wird hervorgehoben</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Hypotaxe",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Endlich hob er es, nachdem er stundenlang danach gesucht hatte, mit der linken Hand, die er zuvor aus dem Handschuh zog, auf und[...]\"</li></ul>",
+        "beschreibung": "Komplexer Satzbau durch Verschachtelung von Haupt-, Neben- und Teilsätzen. Man spricht auch von einem \"hypotaktischen Satzbau\"",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> komplex, ausführlich</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Hyperbel",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Er ist schnell wie der Blitz\"</li><li>\"Das hab' ich dir doch schon tausend mal erklärt!\"</li></ul>",
+        "beschreibung": "Übertreibung",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend</span></div></div>"
+    },
+    {
+        "stilmittel": "Das Hendiadyoin",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Feuer und Flamme\"</li><li>\"Friede, Freude, Eierkuchen\"</li><li>\"in Leder und Schürze\" statt\"in lederner Schürze\"</li></ul>",
+        "beschreibung": "Bildung eines Begriffs durch zwei oder mehrere einzelne Wörter. Oft ersetzen hierbei zwei Substantive eine Substantiv/Adjektiv-Kombination",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> bekräftigend, betonend</span></div></div>"
+    },
+    {
+        "stilmittel": "Der Euphemismus",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"kräftig\" statt \"dick\"</li><li>\"suboptimal\" statt \"schlecht\"</li></ul>",
+        "beschreibung": "Eine Aussage wird beschönigt. Gegenteil des Dysphemismus",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> beschönigend, positiv</span></div></div>"
+    },
+    {
+        "stilmittel": "Das Enjambement",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"stehn die Nacht entlang/ Und blinzeln\" (Storm)</li></ul>",
+        "beschreibung": "Zeilensprung inmitten eines Satzes bzw. Verses",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Epipher",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"So kommst du mir nicht ins Haus, so kommt mir niemand ins Haus!\"</li></ul>",
+        "beschreibung": "Wort-Wiederholung am Satz-/Vers-Ende oder am Ende von Satzteilen",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> eindringlich</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Emphase",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Also so hät' ich das nicht gemacht!\"</li><li>\"Eine Frau erkennt das\"</li></ul>",
+        "beschreibung": "Eine Aussage wird durch besondere Hervorhebung bzw. Betonung verstärkt bzw. verdeutlicht. Das Gemeinte wird dabei nicht konkretisiert, sondern durch allgemeine Begriffe ersetzt.",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonung, eindringlich</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Ellipse",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Er kommt um Viertel vor\"</li><li>\"Je mehr, desto besser\"</li><li>\"Gönn dir\"</li></ul>",
+        "beschreibung": "Ein Satz wird verknappt, indem auf Wörter verzichtet wird, die für das Verständnis der Aussage nicht zwingend benötigt werden",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> verknappend, eindringlich</span></div></div>"
+    },
+    {
+        "stilmittel": "Der Dysphemismus",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Penner\" für \"Obdachloser\"</li><li>\"Gedöns\" für vermeintlich unnötige Dinge</li></ul>",
+        "beschreibung": "Eine Aussage wird abgewertet. Gegenteil des Euphemismus",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> abwertend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Correctio",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Viele kamen um sie zu sehen, nein es waren gar Tausende, die ihr zu Ehren erschienen!\"</li><li>\"Er hatte dunkle Haare. Tiefschwarz sind sie gewesen\"</li></ul>",
+        "beschreibung": "Selbstkorrektur bzw. Verbesserung, bei der eigene Aussagen im Folgenden durch gesteigerte Formulierungen relativiert oder konkretisiert werden",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> die Eindringlichkeit steigernd, verstärkend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Contradictio in adiecto",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Eiskalte Sonne\"</li><li>\"Alter Junge\"</li><li>\"unbekannter Freund\"</li></ul>",
+        "beschreibung": "Ein sich logisch widersprechendes Wortpaar aus Substantiv und Adjektiv (siehe auch Oxymoron)",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> eindringlich, betonend, weckt Aufmerksamkeit durch \"Stolpern\" im Redefluss</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Concessio",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Gut ist er, da hast du Recht, aber für den ersten Platz wird das nicht reichen\"</li></ul>",
+        "beschreibung": "Einem Argument wird zugesprochen, doch wird es zugleich durch eigene Aussagen entkräftigt. Oft in Reden oder Verhandlungen angewandt.",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> überzeugend, vertrauenserweckend</span></div></div>"
+    },
+    {
+        "stilmittel": "Der Chiasmus",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Seine Muskeln groß, kelin sein Verstand\"</li></ul>",
+        "beschreibung": "Satzteile, die sich symmetrisch und bzgl. ihrer Bedeutung entsprechen, werden überkreuzt",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> veranschaulichend, vertrauenserweckend</span></div></div>"
+    },
+    {
+        "stilmittel": "Das Asyndeton",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Er brachte Brot, Käse, Wein\"</li></ul>",
+        "beschreibung": "Aufzählung bzw. Aneinanderreihung von Elementen in einem Satz, bei der auf Konjunktionen verzichtet wird",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> verknappend, eindringlich"
+    },
+    {
+        "stilmittel": "Die Assonanz",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Fluch\" und \"ruht\"</li><li>\"ruft\" und \"Luft\" als unreiner Reim</li></ul>",
+        "beschreibung": "Mehrere Wörter, dessen betonte Silben Vokale mit gleichem Klang aufweisen. Oft in unreinen Reimen",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend, einprägsam</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Aposiopese",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Also wenn du mich fragst...\"</li></ul>",
+        "beschreibung": "Abbrechen der Rede inmitten eines Satzes",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> eindringlich</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Antithese",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Wenn er aufhört, über uns lügen zu verbreiten, werden wir aufhören, über ihn die Wahrheit zu verbreiten\"(Hitler)</li></ul>",
+        "beschreibung": "Gegensätze werden in einer oft kompakten und dadurch besonders einprägsamen Formulierung gegenübergestellt",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> veranschaulichend, kontrastierend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Antiklimax",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"XL, L, M und S\"</li><li>\"Hund, Katze, Maus\"</li></ul>",
+        "beschreibung": "Gegenteil der Steigerung (siehe Klimax)",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> einprägsam, veranschaulichend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Anapher",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Geld ist nicht alles. Geld allein macht nicht glücklich\"</li></ul>",
+        "beschreibung": "Wort-Wiederholung am Satz-/Vers-Ende oder am Ende von Satzteilen",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend, einprägsam</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Alliteration",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Kunst und Krempel\"</li><li>\"rote Rosen\"</li></ul>",
+        "beschreibung": "Aneinandergereihte Begriffe mit gleichen Anfangslauten, z.B. in Stabreimen",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> betonend, einprägsam</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Allegorie",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Sensenmann\" für \"Tod\"</li><li>In einer Fabel: Der Fuchs als Sinnbild für Schlauheit und Durchtriebenheit</li></ul>",
+        "beschreibung": "Gedanken oder Begriffe werden anhand eines verwandten Bildes konkretisiert; Eine Folge von sprachlichen Bildern (siehe Metapher) in Form eines Gleichnisses. Oft in Fabeln: Tierische Protagonisten stellen unsere Gesellschaft dar.",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> veranschaulichend, verbildlichend</span></div></div>"
+    },
+    {
+        "stilmittel": "Die Accumulatio",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Es gab Kartoffeln, Fleisch, Gemüse und Sauce\"</li><li>\"Parteien, Unternehmen, Regierungen und Kirchen\" statt \"gesellschaftliche Gruppierungen\"</li></ul>",
+        "beschreibung": "An Stelle eines Oberbegriffs werden mehrere thematisch zusammengehörige Unterbegriffe aufgezählt",
+        "effekt": "<div class=\"row-card-footer-effect\"><div class=\"wirkung-icon-container\"><span class=\"wirkung-effekt\"><i class=\"fas fa-bolt wirkung-icon\"></i></span></div><div class=\"wirkung-text-container\"><span class=\"wirkung-inhalt\"> veranschaulichend</span></div></div>"
+    }
+
+
+]

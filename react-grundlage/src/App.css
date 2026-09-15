@@ -1,0 +1,31 @@
+.suchfeld {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin: 16px 0;
+}
+
+.suchfeld input {
+  flex: 1;
+  max-width: 420px;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+.zwirbel {
+  padding: 24px;
+  text-align: left;
+}
+
+.kartenraster {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+.karte {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  background: #fff;
+}
