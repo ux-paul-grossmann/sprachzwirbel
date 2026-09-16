@@ -767,3 +767,12 @@ span.title-beispiel {
 .starfall .navbar-toggler-icon {
     filter: invert(1);
 }
+
+/* Variante B: schwebende Leiste mit Abstand zum Rand */
+nav.navbar.fixed-top {
+    top: 12px;
+    left: 12px;
+    right: 12px;
+    width: auto;
+    border-radius: 12px;
+}

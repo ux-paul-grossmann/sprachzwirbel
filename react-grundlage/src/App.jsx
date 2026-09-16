@@ -140,7 +140,7 @@ function App() {
       }
       behalter.style.setProperty(
         'margin-top',
-        `${leiste.offsetHeight + luecke - 24}px`,
+        `${leiste.offsetHeight + 12 + luecke - 24}px`,
         'important',
       )
     }
