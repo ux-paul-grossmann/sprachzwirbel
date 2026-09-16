@@ -87,13 +87,13 @@
         "stilmittel": "Die Periphrase",
         "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Der allmächtige Vater\" für \"Gott\"</li><li>\"bessere Hälfte\" als Bezeichnung für Ehepartner</li></ul>",
         "beschreibung": "Ein Begriff wird durch Worte ersetzt, die ihn beschreiben. Oft beschönigend",
-        "effekt": "<span class=\"wirkung-effekt\">Wirkung:</span> betonend, vermeidung von Wortwiederholungen"
+        "effekt": "<span class=\"wirkung-effekt\">Wirkung:</span> betonend, Vermeidung von Wortwiederholungen"
     },
     {
         "stilmittel": "Das Pars pro toto",
         "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Das macht dann 10 € pro Nase\", für \"[..] pro Person\"</li><li>\"Der Spanier ist stolz\" für \"Spanier sind stolz\"</li><li>\"Brot\" für \"Nahrung\"</li></ul>",
         "beschreibung": "Ein Teil steht für das Ganze: Eine Sache wird durch einen Begriff umschrieben, der eigentlich nur für einen Bestandteil dieser Sache steht. (siehe Synekdoche und Totum pro parte)",
-        "effekt": "<span class=\"wirkung-effekt\">Wirkung:</span> betonend, vermeidung von Wortwiederholungen"
+        "effekt": "<span class=\"wirkung-effekt\">Wirkung:</span> betonend, Vermeidung von Wortwiederholungen"
     },
     {
         "stilmittel": "Die Parenthese",
@@ -265,7 +265,7 @@
     },
     {
         "stilmittel": "Der Chiasmus",
-        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Seine Muskeln groß, kelin sein Verstand\"</li></ul>",
+        "beispiel": "<span class=\"title-beispiel\">Beispiel</span><ul class=\"beispiel\"><li>\"Seine Muskeln groß, klein sein Verstand\"</li></ul>",
         "beschreibung": "Satzteile, die sich symmetrisch und bzgl. ihrer Bedeutung entsprechen, werden überkreuzt",
         "effekt": "<span class=\"wirkung-effekt\">Wirkung:</span> veranschaulichend, vertrauenserweckend"
     },

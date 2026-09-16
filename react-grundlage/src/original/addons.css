@@ -1,0 +1,277 @@
+@import "fonts.css";
+@import "themeswitcher.css";
+@import "circle-nav.css";
+
+.btn-circle {
+  width: 49px;
+  height: 49px;
+  right: 30px;
+  bottom: 30px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#e4e4e9));
+  background-image: linear-gradient(to bottom, #fff, #e4e4e9);
+  -webkit-box-shadow: 0 7px 11px -3px rgba(45, 35, 66, 0.2), 0 2px 4px 0 rgba(45, 35, 66, 0.4), inset 0 -3px 0 0 #cfd1e3;
+  box-shadow: 0 7px 11px -3px rgba(45, 35, 66, 0.2), 0 2px 4px 0 rgba(45, 35, 66, 0.4), inset 0 -3px 0 0 #cfd1e3;
+  position: fixed;
+  z-index: 3000;
+  border-radius: 100%;
+  cursor: pointer;
+  font-weight: bold;
+  color: #5D6494;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5);
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+
+}
+
+.btn-circle:hover {
+  background-image: linear-gradient(to bottom, #f2f2f2, #d6d6de);
+  text-decoration: none;
+  color: #5D6494;
+}
+
+.btn-circle:active {
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#fff), to(#e4e4e9));
+  background-image: linear-gradient(to top, #fff, #e4e4e9);
+  -webkit-box-shadow: inset 0 2px 0 1px rgba(132, 138, 184, 0.11), inset 0 2px 9px 0 rgba(93, 100, 148, 0.5), inset 0 -1px 0 1px #fff;
+  box-shadow: inset 0 2px 0 1px rgba(132, 138, 184, 0.11), inset 0 2px 9px 0 rgba(93, 100, 148, 0.5), inset 0 -1px 0 1px #fff;
+  -webkit-transform: translateY(2px);
+  -ms-transform: translateY(2px);
+  transform: translateY(2px);
+  outline: none !important;
+}
+
+.btn-rect {
+  width: auto;
+  height: 50px;
+  padding: 10px 10px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#e4e4e9));
+  background-image: linear-gradient(to bottom, #fff, #e4e4e9);
+  -webkit-box-shadow: 0 7px 11px -3px rgba(45, 35, 66, 0.2), 0 2px 4px 0 rgba(45, 35, 66, 0.4), inset 0 -3px 0 0 #cfd1e3;
+  box-shadow: 0 7px 11px -3px rgba(45, 35, 66, 0.2), 0 2px 4px 0 rgba(45, 35, 66, 0.4), inset 0 -3px 0 0 #cfd1e3;
+  border-radius: 1px;
+  cursor: pointer;
+  font-weight: bold;
+  color: #5D6494;
+  /* #5D6494 */
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5);
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.btn-rect:hover {
+  background-image: linear-gradient(to bottom, #f2f2f2, #d6d6de);
+  text-decoration: none;
+  color: #5D6494;
+}
+
+.btn-rect:active {
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#fff), to(#e4e4e9));
+  background-image: linear-gradient(to top, #fff, #e4e4e9);
+  -webkit-box-shadow: inset 0 2px 0 1px rgba(132, 138, 184, 0.11), inset 0 2px 9px 0 rgba(93, 100, 148, 0.5), inset 0 -1px 0 1px #fff;
+  box-shadow: inset 0 2px 0 1px rgba(132, 138, 184, 0.11), inset 0 2px 9px 0 rgba(93, 100, 148, 0.5), inset 0 -1px 0 1px #fff;
+  -webkit-transform: translateY(2px);
+  -ms-transform: translateY(2px);
+  transform: translateY(2px);
+}
+
+.btn-rect-round {
+  width: auto;
+  height: 50px;
+  padding: 10px 10px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#e4e4e9));
+  background-image: linear-gradient(to bottom, #fff, #e4e4e9);
+  -webkit-box-shadow: 0 7px 11px -3px rgba(45, 35, 66, 0.2), 0 2px 4px 0 rgba(45, 35, 66, 0.4), inset 0 -3px 0 0 #cfd1e3;
+  box-shadow: 0 7px 11px -3px rgba(45, 35, 66, 0.2), 0 2px 4px 0 rgba(45, 35, 66, 0.4), inset 0 -3px 0 0 #cfd1e3;
+  border-radius: 3px;
+  cursor: pointer;
+  font-weight: bold;
+  color: #5D6494;
+  /* #5D6494 */
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5);
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.btn-rect-round:hover {
+  background-image: linear-gradient(to bottom, #f2f2f2, #d6d6de);
+  text-decoration: none;
+  color: #5D6494;
+}
+
+.btn-rect-round:active {
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#fff), to(#e4e4e9));
+  background-image: linear-gradient(to top, #fff, #e4e4e9);
+  -webkit-box-shadow: inset 0 2px 0 1px rgba(132, 138, 184, 0.11), inset 0 2px 9px 0 rgba(93, 100, 148, 0.5), inset 0 -1px 0 1px #fff;
+  box-shadow: inset 0 2px 0 1px rgba(132, 138, 184, 0.11), inset 0 2px 9px 0 rgba(93, 100, 148, 0.5), inset 0 -1px 0 1px #fff;
+  -webkit-transform: translateY(2px);
+  -ms-transform: translateY(2px);
+  transform: translateY(2px);
+}
+
+.btn-rect-round-wirkung {
+  width: auto;
+  height: 50px;
+  padding: 10px 10px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#e4e4e9));
+  background-image: linear-gradient(to bottom, #fff, #e4e4e9);
+  -webkit-box-shadow: 0 7px 11px -3px rgba(45, 35, 66, 0.2), 0 2px 4px 0 rgba(45, 35, 66, 0.4), inset 0 -3px 0 0 #cfd1e3;
+  box-shadow: 0 7px 11px -3px rgba(45, 35, 66, 0.2), 0 2px 4px 0 rgba(45, 35, 66, 0.4), inset 0 -3px 0 0 #cfd1e3;
+  border-radius: 3px;
+  cursor: pointer;
+  font-weight: bold;
+  color: #5D6494;
+  /* #5D6494 */
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5);
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.btn-rect-round-wirkung:hover {
+  background-image: linear-gradient(to bottom, #f2f2f2, #d6d6de);
+  text-decoration: none;
+  color: #5D6494;
+}
+
+.btn-rect-round-wirkung:active {
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#fff), to(#e4e4e9));
+  background-image: linear-gradient(to top, #fff, #e4e4e9);
+  -webkit-box-shadow: inset 0 2px 0 1px rgba(132, 138, 184, 0.11), inset 0 2px 9px 0 rgba(93, 100, 148, 0.5), inset 0 -1px 0 1px #fff;
+  box-shadow: inset 0 2px 0 1px rgba(132, 138, 184, 0.11), inset 0 2px 9px 0 rgba(93, 100, 148, 0.5), inset 0 -1px 0 1px #fff;
+  -webkit-transform: translateY(2px);
+  -ms-transform: translateY(2px);
+  transform: translateY(2px);
+}
+
+
+
+  .progress {
+    background: linear-gradient(to right, var(--progress-bg) var(--scroll), transparent 0);
+    background-repeat: no-repeat;
+    opacity: 1;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    height: 4px;
+    z-index: 1;
+  }
+
+  .pace {
+    -webkit-pointer-events: none;
+    pointer-events: none;  
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .pace-inactive {
+    display: none;
+  }
+  
+  .pace .pace-progress {
+    background: #29d;
+    position: fixed;
+    z-index: 2000;
+    top: 0;
+    right: 100%;
+    width: 100%;
+    height: 4px;
+  }
+  
+
+  [data-scroll] {
+    transition: all 350ms ease-out;
+    
+  }
+  [data-scroll="in"] {
+    opacity: 1;
+    transform: translate3d(0,0,0);
+   
+  }
+  [data-scroll="out"] {
+    opacity: 0;
+    transform: translate3d(0,80px,0);
+    
+
+  }
+
+
+  .scrolltop {
+	display:none;
+	width:100%;
+	margin:0 auto;
+	position:fixed;
+	bottom:0px;
+  right:0px;	
+  
+  transition: 150ms all ease;
+}
+.scrolltop:hover{
+  right:80px;
+  transition: 150ms all ease;
+}
+.scroll {
+	position:absolute;
+	right:-81px;
+  bottom:20px;
+  width:130px;
+	text-align: left;
+	margin: 0 0 0 0;
+  cursor:pointer;
+  padding-left:.5rem;
+	transition: 0.5s;
+	-moz-transition: 0.5s;
+	-webkit-transition: 0.5s;
+  -o-transition: 0.5s; 
+  color: white !important;
+  background:black;
+  border-radius: .25rem;
+
+}
+.scroll:hover {
+  background:yellow;
+  color: black !important;
+	transition: 0.5s;
+	-moz-transition: 0.5s;
+	-webkit-transition: 0.5s;
+	-o-transition: 0.5s; 		
+}
+
+.scroll .fa {
+	font-size:30px;
+	margin-top:-5px;
+	margin-left:1px;
+	transition: 0.5s;
+	-moz-transition: 0.5s;
+	-webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    font-size:2.5rem;
+    color:darkgrey; 	
+}
+.scrolltop .scroll.icon .fas{
+}
+
+.scrollHint{
+  visibility:visible;
+  right: 22px;
+  bottom: 0px;
+}
+
+/* .navbar-light .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")
+} */

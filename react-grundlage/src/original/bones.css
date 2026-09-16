@@ -1,0 +1,48 @@
+@import "positions.css";
+
+
+
+.h6,h6 {
+  font-size: 0.9rem;
+}
+h6.card-title {
+  font-family: "Merriweather Sans" !important;
+  font-size: 0.8rem;
+}
+.card-header {
+  font-family: 'Merriweather', serif;
+  font-weight: 900;
+}
+
+.card-footer{
+    /* padding: .75rem .6rem !important; */
+}
+
+.card-text{  
+  font-family: 'Montserrat';
+  font-weight: 400;
+}
+.card-text .title-beispiel{  
+  font-family: 'Merriweather Sans', sans-serif;
+  letter-spacing: 0px;
+  font-size: 0.9rem;
+}
+span.title-beispiel{  
+  font-family: "Merriweather Sans" !important;
+  font-size: 0.8rem !important;
+}
+.wirkung-effekt {
+  padding: 5px 10px;
+  
+}
+.wirkung-inhalt {
+  font-family: 'Montserrat';
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+ul.beispiel {
+  font-family: 'Montserrat';
+  font-weight: 400;
+
+}
+
