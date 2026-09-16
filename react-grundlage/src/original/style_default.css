@@ -767,3 +767,24 @@ span.title-beispiel {
 .starfall .navbar-toggler-icon {
     filter: invert(1);
 }
+
+/* Variante A: runde Außenecken an Suche und Schalter */
+#nav-form-control-id-searchfield {
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+
+#searchBtn {
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.farbschema-schalter .btn-group > .btn:first-child {
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+
+.farbschema-schalter .btn-group > .btn:last-child {
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
