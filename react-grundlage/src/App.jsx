@@ -46,9 +46,9 @@ function liesGespeichertenFarbmodus() {
 }
 
 const farbmodusStufen = [
-  { wert: 'hell', text: 'Hell' },
-  { wert: 'system', text: 'System' },
-  { wert: 'dunkel', text: 'Dunkel' },
+  { wert: 'hell', text: 'Hell', symbol: 'fas fa-sun' },
+  { wert: 'system', text: 'System', symbol: 'fas fa-desktop' },
+  { wert: 'dunkel', text: 'Dunkel', symbol: 'fas fa-moon' },
 ]
 
 function App() {
@@ -208,6 +208,10 @@ function App() {
 
   return (
     <>
+      <div
+        className="progress"
+        style={{ position: 'fixed', top: 'auto', bottom: 0, left: 0 }}
+      ></div>
       <nav
         ref={leisteRef}
         className="navbar fixed-top navbar-expand-md navbar-light shadow"
@@ -278,19 +282,18 @@ function App() {
                   key={stufe.wert}
                   type="button"
                   aria-pressed={farbmodus === stufe.wert}
+                  aria-label={stufe.text}
+                  title={stufe.text}
                   onClick={() => setFarbmodus(stufe.wert)}
                   className={`btn btn-sm farbmodus-knopf${farbmodus === stufe.wert ? ' aktiv' : ''}`}
                 >
-                  {stufe.text}
+                  <i className={stufe.symbol} aria-hidden="true"></i>
+                  <span className="sr-only">{stufe.text}</span>
                 </button>
               ))}
             </div>
           </div>
         </div>
-        <div
-          className="progress"
-          style={{ position: 'absolute', top: 'auto', bottom: 0, left: 0 }}
-        ></div>
        </div>
       </nav>
 
