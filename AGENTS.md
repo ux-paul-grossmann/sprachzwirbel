@@ -17,6 +17,7 @@ Kein `build`, `test`, `lint`. Verifikation manuell im Browser plus Syntax Prüfu
 - Bei vager Aufgabe 1 bis 2 Rückfragen statt raten.
 - Commits nur auf Wunsch, Stil `feat/fix/chore/style`.
 - Nach jeder Änderung kurz zusammenfassen welche Dateien warum geändert wurden.
+- **Re-Read-Pflicht:** „X erneut lesen" heißt die Datei gegen Git-Historie (`log`, `diff`, `status`) plus HANDOVER.md abgleichen — Änderungen von allen melden, nie nur gegen eigenes Session-Gedächtnis vergleichen.
 - **Krug-Regel — don't make me think:** Jede Kontrolle und jeder Zustand der Oberfläche muss auf den ersten Blick selbsterklärend sein; keine Fragezeichen für den User.
 - **Nutzerverhalten einplanen:** User überfliegen statt zu lesen — klare visuelle Hierarchie; User wählen die erste brauchbare Option — richtigen Weg offensichtlich machen; User hangeln sich durch — Konventionen folgen, nie neu erfinden.
 - **Design-Pflichten:** Bereiche klar abgrenzen, Klickbares offensichtlich halten, Rauschen minimieren, überflüssige Worte streichen.
