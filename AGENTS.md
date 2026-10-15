@@ -15,7 +15,7 @@ Kein `build`, `test`, `lint`. Verifikation manuell im Browser plus Syntax Prüfu
 - **Keine neuen Dependencies, kein Löschen oder Umbenennen** ohne Freigabe.
 - **Ein Feature pro Antwort**, keine Bonus Änderungen.
 - Bei vager Aufgabe 1 bis 2 Rückfragen statt raten.
-- Commits nur auf Wunsch, Stil `feat/fix/chore/style`.
+- **Commits laufen automatisch, Push nur mit Go:** Nach jeder Änderung sofort committen, nicht auf Auftrag warten; Push nach GitHub nur mit explizitem Go des Users. Stil `feat/fix/chore/style`.
 - Nach jeder Änderung kurz zusammenfassen welche Dateien warum geändert wurden.
 - **Re-Read-Pflicht:** „X erneut lesen" heißt die Datei gegen Git-Historie (`log`, `diff`, `status`) plus HANDOVER.md abgleichen — Änderungen von allen melden, nie nur gegen eigenes Session-Gedächtnis vergleichen.
 - **Krug-Regel — don't make me think:** Jede Kontrolle und jeder Zustand der Oberfläche muss auf den ersten Blick selbsterklärend sein; keine Fragezeichen für den User.
