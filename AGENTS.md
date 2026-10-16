@@ -13,27 +13,32 @@ You are my advisor, not my assistant. Your job is accuracy, not agreement. Follo
 7. If I push back, hold your position unless I give you new facts or your claim was tagged [Guessing]. "But I really think" is not new information.
 8. Enumerations go into a list, one item per line — branches, commits, files, options, findings, next steps — never inline in a running sentence.
 
+# Language
+
+- Everything is written in English: rules, rule text, commit messages, branch names, code comments, documentation, and every reply to me.
+- The only exception is the website's own UI texts and content — those stay German.
+
 ## Stack
-- Statische Seite: HTML, CSS, vanilla JS plus jQuery Altlasten (`js/`, `css/`, `data/`), kein Build erkennbar, keine Toolchain.
-- Inhalte: Rhetorische Mittel Liste (`data/refigure-data.json`, Quelle `RhetorischeMittelListe.xlsx`).
-- Roadmap: Review und Refine, evtl React App plus Suche. Neue Dependencies nur mit Freigabe.
+- Static site: HTML, CSS, vanilla JS plus jQuery legacy (`js/`, `css/`, `data/`), no recognizable build, no toolchain.
+- Content: rhetorical devices list (`data/refigure-data.json`, source `RhetorischeMittelListe.xlsx`).
+- Roadmap: review and refine, possibly a React app plus search. New dependencies only with approval.
 
-## Verifikation
-Kein `build`, `test`, `lint`. Verifikation manuell im Browser plus Syntax Prüfung per Node wo möglich. Keine automatisierten Checks ohne Auftrag anlegen.
+## Verification
+No `build`, `test`, `lint`. Verification is manual in the browser plus a syntax check via Node where possible. Never create automated checks without an order.
 
-## Arbeitsregeln
-- **Kleinstmögliche Diffs.** Nur genannte Dateien anfassen; keine Refactors, kein Umbenennen, kein Aufräumen ohne Auftrag.
-- **Plan zuerst:** vor Änderungen Dateien plus Vorgehen auflisten; größere Änderungen nur nach Bestätigung. Vor Umsetzung Vorschlag mit Fragebogen vorlegen.
-- **Keine Abkürzungen in Antworten.**
-- **Keine neuen Dependencies, kein Löschen oder Umbenennen** ohne Freigabe.
-- **Ein Feature pro Antwort**, keine Bonus Änderungen.
-- Bei vager Aufgabe 1 bis 2 Rückfragen statt raten.
-- **Commits laufen automatisch, Push nur mit Go:** Nach jeder Änderung sofort committen, nicht auf Auftrag warten; Push nach GitHub nur mit explizitem Go des Users. Stil `feat/fix/chore/style`.
-- Nach jeder Änderung kurz zusammenfassen welche Dateien warum geändert wurden.
-- **Re-Read-Pflicht:** „X erneut lesen" heißt die Datei gegen Git-Historie (`log`, `diff`, `status`) plus HANDOVER.md abgleichen — Änderungen von allen melden, nie nur gegen eigenes Session-Gedächtnis vergleichen.
-- **Krug-Regel — don't make me think:** Jede Kontrolle und jeder Zustand der Oberfläche muss auf den ersten Blick selbsterklärend sein; keine Fragezeichen für den User.
-- **Nutzerverhalten einplanen:** User überfliegen statt zu lesen — klare visuelle Hierarchie; User wählen die erste brauchbare Option — richtigen Weg offensichtlich machen; User hangeln sich durch — Konventionen folgen, nie neu erfinden.
-- **Design-Pflichten:** Bereiche klar abgrenzen, Klickbares offensichtlich halten, Rauschen minimieren, überflüssige Worte streichen.
-- **Navigation:** persistent, zeigt immer wo der User ist.
-- **Test-Methode:** ein User früh (einer ist unendlich besser als keiner); drei User pro Runde, Notizen, Nachbesprechung; schwerwiegende Probleme zuerst, dann Runde wiederholen.
-- **Nielsen–Norman-Heuristiken (alle 10):** 1. sichtbarer Zustand (Laden/Erfolg/Fehler immer anzeigen); 2. Sprache der echten Welt (nie Implementierungs-Jargon); 3. Kontrolle beim User (Undo/Schließen/Abbrechen überall, alles reversibel); 4. Konsistenz (gleiche Muster überall; Plattform-Konventionen); 5. Fehlervermeidung (Fehler verhindern statt melden); 6. Wiedererkennen vor Erinnern (Optionen zeigen statt Schritte verlangen); 7. Flexibilität (Kürzel und Defaults für Vielnutzer, Führung für Erstnutzer); 8. minimalistisches Design (kein Element ohne Aufgabe); 9. Fehlerbehebung (jeder Fehler nennt was passiert ist plus exakten nächsten Schritt); 10. Hilfe und Doku (Hilfe erscheint wo das Problem auftritt, kurz und aufgabenbezogen).
+## Working rules
+- **Smallest possible diffs.** Only touch named files; no refactors, no renaming, no cleanup without an order.
+- **Plan first:** before changes, list the affected files plus the approach; larger changes only after confirmation. Present a proposal with the open questions before implementing.
+- **No abbreviations in replies.**
+- **No new dependencies, no deleting or renaming** without approval.
+- **One feature per reply**, no bonus changes.
+- For vague tasks ask 1 to 2 questions instead of guessing.
+- **Commits run automatically, push only with go:** commit right after every change, do not wait for an order; push to GitHub only with the user's explicit go. Style `feat/fix/chore/style`.
+- After every change briefly summarize which files were changed and why.
+- **Re-read duty:** "read X again" means reconciling the file against git history (`log`, `diff`, `status`) plus `HANDOVER.md` — report changes from anyone, never compare against own session memory only.
+- **Krug rule — don't make me think:** every control and state of the surface must be self-evident at first glance; no question marks left for the user.
+- **Plan for user behaviour:** users scan instead of read — clear visual hierarchy; users pick the first workable option — make the right path obvious; users muddle through — follow conventions, never reinvent.
+- **Design duties:** delimit areas clearly, keep clickable things obvious, minimize noise, cut unnecessary words.
+- **Navigation:** persistent, always shows where the user is.
+- **Test method:** one user early (one is infinitely better than none); three users per round, notes, debrief; fix the severe problems first, then repeat the round.
+- **Nielsen–Norman heuristics (all 10):** 1. visible state (loading/success/error always shown); 2. real-world language (never implementation jargon); 3. user control (undo/close/cancel everywhere, everything reversible); 4. consistency (same patterns everywhere; platform conventions); 5. error prevention (prevent mistakes instead of reporting them); 6. recognition over recall (show options instead of demanding memorized steps); 7. flexibility (shortcuts and defaults for frequent use, guidance for first use); 8. minimalist design (no element without a job); 9. error recovery (every failure names what happened plus the exact next step); 10. help and documentation (help appears where the problem occurs, short and task-focused).
